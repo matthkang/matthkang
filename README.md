@@ -2,6 +2,6 @@
 My name is Matthew!
 
 
-- 🔭 I’m currently working on a Flutter College Prep app for iOS, Android and Web 
+- 🔭 I’m currently working on a Flutter College Prep app for iOS, Android and Web https://github.com/matthkang/flutterappshowcase
 - 📫 How to reach me: ...
 
